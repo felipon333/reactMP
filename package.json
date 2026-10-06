@@ -1,0 +1,9 @@
+{
+  "name": "markt-try-workspace",
+  "private": true,
+  "scripts": {
+    "dev": "npm run dev --prefix Marketplace-universitario-Taller-1",
+    "build": "npm run build --prefix Marketplace-universitario-Taller-1"
+  }
+}
+
