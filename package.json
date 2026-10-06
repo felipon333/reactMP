@@ -1,9 +1,22 @@
 {
-  "name": "markt-try-workspace",
+  "name": "marketplace-unab",
   "private": true,
+  "version": "1.0.0",
+  "type": "module",
   "scripts": {
-    "dev": "npm run dev --prefix Marketplace-universitario-Taller-1",
-    "build": "npm run build --prefix Marketplace-universitario-Taller-1"
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.11.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^5.4.11"
   }
 }
 
