@@ -18,7 +18,7 @@
 Dentro de la comunidad universitaria de la UNAB, la compraventa e intercambio de libros académicos, calculadoras, notebooks, apuntes y artículos deportivos suele realizarse de forma desorganizada e informal a través de grupos de redes sociales o mensajería. Esto genera falta de visibilidad, precios arbitrarios y dificultades para encontrar materiales específicos de asignaturas de pregrado.
 
 ### Propuesta de Solución
-**Marketplace UNAB** es una aplicación frontend desarrollada en **React 18** y **Vite** que centraliza las publicaciones estudiantiles. Permite explorar un catálogo dinámico con filtros avanzados, revisar detalles de los productos y sus vendedores (identificando su carrera y campus), gestionar un carrito de compras y favoritos con persistencia local, publicar nuevos artículos con validaciones en cliente, e integrar la API pública de **Open Library** para enriquecer automáticamente la publicación de libros universitarios.
+**Marketplace UNAB** es una aplicación frontend desarrollada en **React 18** y **Vite** que centraliza las publicaciones estudiantiles. Permite explorar un catálogo dinámico con filtros avanzados, revisar detalles de los productos y sus vendedores (identificando su carrera y campus), gestionar un carrito de compras y favoritos con persistencia local, publicar nuevos artículos con validaciones en cliente, e integrar la API pública de **Open Library** para enriquecer automáticamente la publicación de libros universitarios
 
 ### Usuarios Objetivo
 - Estudiantes de pregrado y postgrado de la UNAB que buscan adquirir material académico a precios accesibles.
